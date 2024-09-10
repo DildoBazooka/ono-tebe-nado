@@ -58,7 +58,7 @@
     padding: 7px 63px 0 145px;
 }
 
-.header__address-link {
+.address-link {
     text-decoration: none;
     border-bottom: 1px solid;
 }
@@ -131,6 +131,7 @@
 }
 
 .bet-button {
+    font-family: Raleway, sans-serif;
     border: 1px #fff solid;
     color: #fff;
     background-color: transparent;
@@ -261,11 +262,6 @@
     display: flex;
     justify-content: space-between; 
     padding: 0 50px 88px;
-}
-
-.footer__address-link {
-    text-decoration: none;
-    border-bottom: 1px solid;
 }
 
 .footer__menu-list {
